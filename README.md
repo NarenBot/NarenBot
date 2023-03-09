@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NarenBot&style=plastic&label=Profile+Views" alt="NarenBot"> </p>
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=24&color=187DAD&background=A3E8FF00&center=true&lines=Data+Analyst;Data+Enthusiast'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=24&color=187DAD&background=A3E8FF00&center=true&lines=Data+Scientist;Data+Analyst;Data+Enthusiast'/>
 </div>
 <hr>
 
