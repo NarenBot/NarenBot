@@ -11,7 +11,7 @@
 
 - 🔭 An AWS Data Engineer with experience in designing, developing and optimizing datapipelines and ETL workflows in cloud environments.
 
-- 🌱 Proficient in Python, PySpak, MySQL and AWS services like S3, Glue, Redshift and Lambda. Skilled in building scalable and cost-efficient data solutions to drive business insights and automation.
+- 🌱 Proficient in Python, PySpark, MySQL and AWS services like S3, Glue, Redshift and Lambda. Skilled in building scalable and cost-efficient data solutions to drive business insights and automation.
 
 - 💻 Check my Projects and other Repos [Here.](https://github.com/NarenBot/Real-Time_Stock_Analytics_with_Kafka_and_AWS)
 
