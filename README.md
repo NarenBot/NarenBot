@@ -9,12 +9,14 @@
 
 ## **ABOUT ME**
 
-- 🔭 I had worked for 10 years as a **Senior Graphic Designer** at **RR Donnelley**.
+- 🔭 An AWS Data Engineer with experience in designing, developing and optimizing datapipelines and ETL workflows in cloud environments.
 
-- 🌱 I’m currently learning **Full Stack Data Science** at **iNeuron.ai**.
+- 🌱 Proficient in Python, PySpak, MySQL and AWS services like S3, Glue, Redshift and Lambda. Skilled in building scalable and cost-efficient data solutions to drive business insights and automation.
 
-- 💻 Check my Projects and other Repos [Here.](https://github.com/NarenBot?tab=repositories)
+- 💻 Check my Projects and other Repos [Here.](https://github.com/NarenBot/Real-Time_Stock_Analytics_with_Kafka_and_AWS)
 
+- 👨‍💻 Completed SQL For Data Professionals - **@ CodeBasics** [Link](https://codebasics.io/certificate/CB-50-280891)
+  
 - 👨‍💻 Completed P.G Certificate Program - **Data Science and Machine Learning @ Manipal Academy of Higher Education**.
 
 - ⚡ Football is one of the most favourites & playing outdoor games.
@@ -23,6 +25,7 @@
 
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=green"/></a>
+<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"> <img src="https://img.shields.io/badge/PySpark-3670A0?style=for-the-badge&logo=apachespark&logoColor=green"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a> 
 <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
 <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a> 
