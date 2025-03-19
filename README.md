@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NarenBot&style=plastic&label=Profile+Views" alt="NarenBot"> </p>
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=24&color=187DAD&background=A3E8FF00&center=true&lines=Data+Scientist;Data+Analyst;Data+Enthusiast'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=24&color=187DAD&background=A3E8FF00&center=true&lines=Senior+Data+Engineer;Data+Science;Data+Enthusiast'/>
 </div>
 <hr>
 
@@ -15,7 +15,7 @@
 
 - 💻 Check my Projects and other Repos [Here.](https://github.com/NarenBot/Real-Time_Stock_Analytics_with_Kafka_and_AWS)
 
-- 👨‍💻 Completed SQL For Data Professionals - **@ CodeBasics** [Link](https://codebasics.io/certificate/CB-50-280891)
+- 👨‍💻 Completed SQL For Data Professionals - **@ CodeBasics** [Certification](https://codebasics.io/certificate/CB-50-280891)
   
 - 👨‍💻 Completed P.G Certificate Program - **Data Science and Machine Learning @ Manipal Academy of Higher Education**.
 
