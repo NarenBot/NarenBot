@@ -25,7 +25,7 @@
 
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=green"/></a>
-<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"> <img src="https://img.shields.io/badge/PySpark-3670A0?style=for-the-badge&logo=apachespark&logoColor=green"/></a>
+<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"> <img src="https://img.shields.io/badge/PySpark-3670A0?style=for-the-badge&logo=apachespark&logoColor=orange"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a> 
 <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
 <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a> 
